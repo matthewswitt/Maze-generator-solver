@@ -11,5 +11,5 @@ After the maze is generated, a pathfinder solves the maze in the quickest way po
 <br>
 <img src="https://github.com/matthewswitt/Maze-generator-solver/blob/main/DemoMaze/shortsolve.png" width="300" height="300" align="left">
 <img src="https://github.com/matthewswitt/Maze-generator-solver/blob/main/DemoMaze/mediumsolve.png" width="300" height="300" align="center">
-<img src="https://github.com/matthewswitt/Maze-generator-solver/blob/main/DemoMaze/longsolve.png" width="300" height="300" align="righht">
+<img src="https://github.com/matthewswitt/Maze-generator-solver/blob/main/DemoMaze/longsolve.png" width="300" height="300" align="right">
 
